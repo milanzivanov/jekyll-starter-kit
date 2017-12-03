@@ -1,5 +1,5 @@
 ---
-layout: samosadrzaj
+layout: default
 ---
 
 <h1>Kontakt</h1>
